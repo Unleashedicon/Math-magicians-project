@@ -1,0 +1,2 @@
+.calculator-app{align-items:center;display:flex;flex-direction:column;justify-content:center;min-height:100vh}.calculator{box-shadow:0 2px 24px rgba(0,0,0,.2);color:#fff;max-width:400px;overflow:hidden;width:100%}.display{background-color:gray;color:#fff;font-size:24px;font-weight:300;padding:16px;text-align:right}.Digits{grid-gap:1px;display:grid;gap:1px;grid-template-columns:repeat(4,1fr)}.zero{grid-column:span 2}.button{color:#000;cursor:pointer;font-weight:300;height:50px}.Operators{background-color:#ff4500}
+/*# sourceMappingURL=main.42f724ac.css.map*/
