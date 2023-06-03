@@ -2,6 +2,7 @@ import './calculator.css';
 import PropTypes from 'prop-types';
 import { useState } from 'react';
 import calculate from '../logic/calculate';
+import Quotes from './quote';
 
 const Calculator = () => {
   const [calculatorData, setCalculatorData] = useState({
@@ -41,6 +42,7 @@ const Calculator = () => {
           <Button label="=" onClick={() => handleButtonClick('=')} />
         </div>
       </div>
+      <Quotes />
     </div>
   );
 };
