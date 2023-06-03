@@ -55,8 +55,19 @@ After you're finished please remove all the comments and instructions!
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+This calculator app is built using the following technologies and libraries:
 
-
+- **React:** A JavaScript library for building user interfaces.
+- **JavaScript (ES6+):** The programming language used to develop the calculator logic.
+- **HTML:** The markup language used for structuring the calculator's UI.
+- **CSS:** The styling language used for customizing the appearance of the calculator.
+- **Babel:** A JavaScript compiler that converts modern JavaScript (ES6+) code into backward-compatible versions for browser support.
+- **Webpack:** A module bundler that packages the JavaScript and CSS files for deployment.
+- **ESLint:** A JavaScript linter used for static code analysis to ensure code quality and adherence to coding standards.
+- **Git:** A version control system for tracking changes in the codebase and facilitating collaboration.
+- **GitHub**: A web-based platform for hosting the project's Git repository and enabling code sharing and collaboration.
+- **npm:** The package manager for installing and managing project dependencies.
+- **VS Code:** A popular code editor with excellent support for JavaScript and React development.
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
