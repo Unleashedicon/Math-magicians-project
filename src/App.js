@@ -1,12 +1,10 @@
 import './app.css';
-import Calculator from './components/calculator';
-import Quotes from './components/quote';
+import Calculatorpro from './components/Calculatorpro';
 
 const App = () => (
   <div>
     {/* other JSX code */}
-    <Quotes />
-    <Calculator />
+    <Calculatorpro />
     {/* other JSX code */}
   </div>
 );
