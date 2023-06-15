@@ -1,8 +1,5 @@
 import React from 'react';
+import { Navigate } from 'react-router-dom';
 
-const NotMatch = () => (
-  <div>
-    <p>Not found!</p>
-  </div>
-);
+const NotMatch = () => <Navigate to="/" />;
 export default NotMatch;
