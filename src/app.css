@@ -6,3 +6,26 @@
   top: 20px;
   font-size: 25px;
 }
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* Active route */
+.active {
+  color: #005bb3;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: azure;
+  color: #333;
+}
+
+.calculator-palace {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
