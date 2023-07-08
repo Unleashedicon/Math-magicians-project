@@ -185,7 +185,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/Unleashedicon)
-- Twitter: [@twitterhandle](https://twitter.com/KipkuruiKelvin3e)
+- Twitter: [@twitterhandle](https://twitter.com/KipkuruiKelvin3?t=HweAJ0dkkyNf-Xc-FioY9Q&s=09)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelvin-kipkurui-7b50b8252/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
